@@ -1,0 +1,5 @@
+原代码github地址  https://github.com/IFmiss/vue-music
+
+源代码效果src   http://www.daiwei.org/vue-music.html
+
+默认接口   http://localhost:8088
